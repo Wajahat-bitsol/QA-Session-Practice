@@ -1,0 +1,281 @@
+# Scraped Elements from Qatar Living Properties Page
+
+## Page Title
+
+- **Title**: Qatar_LivingQatar_Living
+  - **Element ID**: `title`
+  - **XPath**: `//title`
+  - **Class Name**: `page-title`
+  - **Tag Name**: `title`
+  - **Data Test ID**: `page-title`
+  - **ARIA Role**: `banner`
+  - **Text Selector**: `Qatar_LivingQatar_Living`
+
+## Navigation Links
+
+- **Properties**: Properties
+  - **Element ID**: `nav-properties`
+  - **XPath**: `//a[text()='Properties']`
+  - **Class Name**: `nav-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `nav-properties`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Properties`
+- **Vehicles**: Vehicles
+  - **Element ID**: `nav-vehicles`
+  - **XPath**: `//a[text()='Vehicles']`
+  - **Class Name**: `nav-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `nav-vehicles`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Vehicles`
+- **Classifieds**: Classifieds
+  - **Element ID**: `nav-classifieds`
+  - **XPath**: `//a[text()='Classifieds']`
+  - **Class Name**: `nav-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `nav-classifieds`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Classifieds`
+- **Services**: Services
+  - **Element ID**: `nav-services`
+  - **XPath**: `//a[text()='Services']`
+  - **Class Name**: `nav-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `nav-services`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Services`
+- **Jobs**: Jobs
+  - **Element ID**: `nav-jobs`
+  - **XPath**: `//a[text()='Jobs']`
+  - **Class Name**: `nav-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `nav-jobs`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Jobs`
+- **Rewards**: Rewards
+  - **Element ID**: `nav-rewards`
+  - **XPath**: `//a[text()='Rewards']`
+  - **Class Name**: `nav-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `nav-rewards`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Rewards`
+- **Post Ad**: Post Ad
+  - **Element ID**: `nav-post-ad`
+  - **XPath**: `//a[text()='Post Ad']`
+  - **Class Name**: `nav-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `nav-post-ad`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Post Ad`
+
+## Property Categories
+
+- **Residential**: Residential
+  - **Element ID**: `cat-residential`
+  - **XPath**: `//a[text()='Residential']`
+  - **Class Name**: `category-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `cat-residential`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Residential`
+- **Commercial**: Commercial
+  - **Element ID**: `cat-commercial`
+  - **XPath**: `//a[text()='Commercial']`
+  - **Class Name**: `category-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `cat-commercial`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Commercial`
+- **International**: International
+  - **Element ID**: `cat-international`
+  - **XPath**: `//a[text()='International']`
+  - **Class Name**: `category-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `cat-international`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `International`
+
+## Property Types
+
+- **For Rent**: For Rent
+  - **Element ID**: `type-rent`
+  - **XPath**: `//a[text()='For Rent']`
+  - **Class Name**: `type-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `type-rent`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `For Rent`
+- **For Sale**: For Sale
+  - **Element ID**: `type-sale`
+  - **XPath**: `//a[text()='For Sale']`
+  - **Class Name**: `type-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `type-sale`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `For Sale`
+
+## Popular Searches
+
+- **Apartments for rent in Fox Hills**: Apartments for rent in Fox Hills
+  - **Element ID**: `search-fox-hills`
+  - **XPath**: `//a[text()='Apartments for rent in Fox Hills']`
+  - **Class Name**: `search-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `search-fox-hills`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Apartments for rent in Fox Hills`
+- **Apartments for rent in Al Sadd**: Apartments for rent in Al Sadd
+  - **Element ID**: `search-al-sadd`
+  - **XPath**: `//a[text()='Apartments for rent in Al Sadd']`
+  - **Class Name**: `search-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `search-al-sadd`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Apartments for rent in Al Sadd`
+- **Apartments for rent in Lusail**: Apartments for rent in Lusail
+  - **Element ID**: `search-lusail`
+  - **XPath**: `//a[text()='Apartments for rent in Lusail']`
+  - **Class Name**: `search-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `search-lusail`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Apartments for rent in Lusail`
+- **Apartments for rent in Viva Bahriya**: Apartments for rent in Viva Bahriya
+  - **Element ID**: `search-viva-bahriya`
+  - **XPath**: `//a[text()='Apartments for rent in Viva Bahriya']`
+  - **Class Name**: `search-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `search-viva-bahriya`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Apartments for rent in Viva Bahriya`
+- **Apartments for rent in Al Aziziya**: Apartments for rent in Al Aziziya
+  - **Element ID**: `search-al-aziziya`
+  - **XPath**: `//a[text()='Apartments for rent in Al Aziziya']`
+  - **Class Name**: `search-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `search-al-aziziya`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Apartments for rent in Al Aziziya`
+- **Apartments for rent in Porto Arabia**: Apartments for rent in Porto Arabia
+  - **Element ID**: `search-porto-arabia`
+  - **XPath**: `//a[text()='Apartments for rent in Porto Arabia']`
+  - **Class Name**: `search-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `search-porto-arabia`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Apartments for rent in Porto Arabia`
+- **Apartments for rent in West Bay**: Apartments for rent in West Bay
+  - **Element ID**: `search-west-bay`
+  - **XPath**: `//a[text()='Apartments for rent in West Bay']`
+  - **Class Name**: `search-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `search-west-bay`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Apartments for rent in West Bay`
+
+## Villas for Rent
+
+- **Villas for rent in Fox Hills**: Villas for rent in Fox Hills
+  - **Element ID**: `villa-fox-hills`
+  - **XPath**: `//a[text()='Villas for rent in Fox Hills']`
+  - **Class Name**: `villa-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `villa-fox-hills`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Villas for rent in Fox Hills`
+- **Villas for rent in Al Sadd**: Villas for rent in Al Sadd
+  - **Element ID**: `villa-al-sadd`
+  - **XPath**: `//a[text()='Villas for rent in Al Sadd']`
+  - **Class Name**: `villa-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `villa-al-sadd`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Villas for rent in Al Sadd`
+- **Villas for rent in Lusail**: Villas for rent in Lusail
+  - **Element ID**: `villa-lusail`
+  - **XPath**: `//a[text()='Villas for rent in Lusail']`
+  - **Class Name**: `villa-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `villa-lusail`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Villas for rent in Lusail`
+- **Villas for rent in Viva Bahriya**: Villas for rent in Viva Bahriya
+  - **Element ID**: `villa-viva-bahriya`
+  - **XPath**: `//a[text()='Villas for rent in Viva Bahriya']`
+  - **Class Name**: `villa-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `villa-viva-bahriya`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Villas for rent in Viva Bahriya`
+- **Villas for rent in Al Aziziya**: Villas for rent in Al Aziziya
+  - **Element ID**: `villa-al-aziziya`
+  - **XPath**: `//a[text()='Villas for rent in Al Aziziya']`
+  - **Class Name**: `villa-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `villa-al-aziziya`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Villas for rent in Al Aziziya`
+- **Villas for rent in Porto Arabia**: Villas for rent in Porto Arabia
+  - **Element ID**: `villa-porto-arabia`
+  - **XPath**: `//a[text()='Villas for rent in Porto Arabia']`
+  - **Class Name**: `villa-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `villa-porto-arabia`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Villas for rent in Porto Arabia`
+- **Villas for rent in West Bay**: Villas for rent in West Bay
+  - **Element ID**: `villa-west-bay`
+  - **XPath**: `//a[text()='Villas for rent in West Bay']`
+  - **Class Name**: `villa-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `villa-west-bay`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Villas for rent in West Bay`
+
+## Footer Links
+
+- **Advertising Terms**: Advertising Terms
+  - **Element ID**: `footer-advertising-terms`
+  - **XPath**: `//a[text()='Advertising Terms']`
+  - **Class Name**: `footer-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `footer-advertising-terms`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Advertising Terms`
+- **Website Terms**: Website Terms
+  - **Element ID**: `footer-website-terms`
+  - **XPath**: `//a[text()='Website Terms']`
+  - **Class Name**: `footer-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `footer-website-terms`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Website Terms`
+- **Rules for posting ads**: Rules for posting ads
+  - **Element ID**: `footer-rules`
+  - **XPath**: `//a[text()='Rules for posting ads']`
+  - **Class Name**: `footer-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `footer-rules`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Rules for posting ads`
+- **Help**: Help
+  - **Element ID**: `footer-help`
+  - **XPath**: `//a[text()='Help']`
+  - **Class Name**: `footer-link`
+  - **Tag Name**: `a`
+  - **Data Test ID**: `footer-help`
+  - **ARIA Role**: `link`
+  - **Text Selector**: `Help`
+
+## Copyright
+
+- **Copyright © 2025 Qatar Living. All rights reserved.**: Copyright © 2025 Qatar Living. All rights reserved.
+  - **Element ID**: `footer-copyright`
+  - **XPath**: `//div[contains(text(), 'Copyright © 2025 Qatar Living. All rights reserved.')]`
+  - **Class Name**: `copyright`
+  - **Tag Name**: `div`
+  - **Data Test ID**: `footer-copyright`
+  - **ARIA Role**: `contentinfo`
+  - **Text Selector**: `Copyright © 2025 Qatar Living. All rights reserved.`
