@@ -62,4 +62,4 @@ This project contains automated tests for the Qatar Living Properties web applic
 
 ---
 
-For any issues or contributions, please open an issue or pull request. 
+For any issues or contributions, please open an issue or pull request.
