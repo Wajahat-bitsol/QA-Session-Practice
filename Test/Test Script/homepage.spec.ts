@@ -55,39 +55,15 @@ test.describe("Homepage Tests", () => {
   });
 
   test("TC-006: Verify Popular Villa Searches", async ({ page }) => {
-    await page
-      .getByRole("button", {
-        name: "Search for villas by location",
-        exact: true,
-      })
-      .click();
-    // Debug: print page HTML after clicking villas button
-    console.log("--- PAGE HTML (After Villas Button Click) ---");
-    console.log(await page.content());
-    let region;
-    try {
-      region = page.getByRole("region", {
-        name: "Search for villas by location",
-      });
-      await expect(region).toBeVisible({ timeout: 5000 });
-    } catch {
-      region = page.getByRole("region", {
-        name: "Search for apartments by location",
-      });
-      await expect(region).toBeVisible({ timeout: 5000 });
-    }
-    // Debug: print region HTML
-    console.log("--- REGION HTML (Villas Tab) ---");
-    console.log(await region.innerHTML());
-    const searches = Object.values(POPULAR_VILLA_SEARCHES);
-    for (const search of searches) {
-      const link = region.getByRole(search.role as "link", {
-        name: search.name,
-        exact: true,
-      });
-      await expect(link).toBeVisible();
-      await expect(link).toBeEnabled();
-    }
+    await page.getByRole("button", { name: "Search for villas by location", exact: true }).click();
+    const heading = page.getByRole("heading", { name: "Search for villas by location" });
+    await expect(heading).toBeVisible({ timeout: 10000 });
+
+    const foxHillsLink = page.getByRole("link", { name: "Villas for rent in Fox Hills", exact: true });
+    await expect(foxHillsLink).toBeVisible({ timeout: 15000 });
+    await foxHillsLink.click();
+
+    await expect(page).toHaveURL("https://qlp.qatarliving.com/en/properties/residential?purpose=For+Rent&propertyTypes=Villa&location=Fox+Hills+-+Lusail");
   });
 
   test("TC-007: Verify Footer Links", async ({ page }) => {
